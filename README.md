@@ -22,7 +22,9 @@ projeto utilizado para estudo de conceitos do git e github no curso, <strong>*Gi
 - git clone
 - git remote add origin (URL repository remoto)
 
-### _Links disponibilizado pela alura para saber mais sobre fos assuntos:_
+### _Links disponibilizado pela alura para saber mais sobre os seguintes assuntos:_
 - <a href="https://wordpress.com/support/markdown-quick-reference/" target="_blank">Formatação Markdown </a>
 - <a href= "https://www.alura.com.br/artigos/escrever-bom-readme" target="_blank">Como escrever um README</a>
 - <a href="https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github" target="_blank">README para o seu perfil do GitHub</a>
+- <a href="https://www.toptal.com/developers/gitignore/" target= "_blank">Site para formatar gitignore com tecnologias usadas </a>
+- <a href="https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git" target="_blank">Documentação Git </a>
